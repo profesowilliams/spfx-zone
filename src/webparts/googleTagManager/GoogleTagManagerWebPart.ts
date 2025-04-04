@@ -43,15 +43,15 @@ var getEnv = function () {
   var gtm_auth, gtm_preview;
   switch (env) {
       case ('dev'):
-          gtm_auth = '99tPzWvHXnuCa-8Z3QYMhg';
+          gtm_auth = '';
           gtm_preview = 'env-5';
           break;
       case ('test'):
-          gtm_auth = 'chnucPjxDu7lXnSAKWy8Uw';
+          gtm_auth = '';
           gtm_preview = 'env-6';
           break;
       default:
-          gtm_auth = 'kzJPJUywQJ2EbQF6h6Ej_Q';
+          gtm_auth = '';
           gtm_preview = 'env-7';
           break;
   }

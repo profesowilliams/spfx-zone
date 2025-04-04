@@ -1,7 +1,7 @@
 {
   "$schema": "https://dev.office.com/json-schemas/spfx-build/deploy-azure-storage.schema.json",
   "workingDir": "./temp/deploy",
-  "account": "bahdevcollabsysstorage",
-  "container": "ecs",
-  "accessKey": "6e3FXOny3Cb58CgSwvGzRV+JUpxAqIYZu2BrAI6DySOMyXyiThG5rhqly/R1EbDjoSJtOiNjbDHEAoVn6ZMxmw=="
+  "account": "",
+  "container": "",
+  "accessKey": ""
 }
