@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "bundles": {
+    "google-tag-manager-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/googleTagManager/GoogleTagManagerWebPart.js",
+          "manifest": "./src/webparts/googleTagManager/GoogleTagManagerWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "GoogleTagManagerWebPartStrings": "lib/webparts/googleTagManager/loc/{locale}.js"
+  }
+}
